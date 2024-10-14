@@ -4,19 +4,13 @@ import React from "react";
 function Footer(){
     return(
         <>
-        <footer id="3"className="bg-emerald-800 text-white py-10">
+        <footer id="5"className="bg-emerald-800 text-white py-10">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex flex-wrap justify-between">
-                
+                    
                 <div className="w-full sm:w-1/2 lg:w-1/4 mb-6">
                 <h1 className="text-green-600 text-2xl font-bold ">JJM</h1>
                 <p className="text-black text-sm ">Soap and Detergents Manufacturing</p>
-                    <div className="flex space-x-4">
-                    <a href="#" className="text-white hover:text-gray-300"><i className="fab fa-linkedin"></i></a>
-                    <a href="#" className="text-white hover:text-gray-300"><i className="fab fa-facebook"></i></a>
-                    <a href="#" className="text-white hover:text-gray-300"><i className="fab fa-x-twitter"></i></a>
-                    <a href="#" className="text-white hover:text-gray-300"><i className="fab fa-youtube"></i></a>
-                    </div>
                 </div>
 
                 <div className="w-full sm:w-1/2 lg:w-1/4 mb-6">

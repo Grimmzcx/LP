@@ -39,9 +39,9 @@ function Navbar() {
                 <div className="font-bold">
                     <ul className="menu menu-horizontal px-1">
                         <li><Link to="1" smooth={true} duration={1000} className="hover:text-gray-300 cursor-pointer bg-cyan-500">Home</Link></li>
-                        <li><Link to="2" smooth={true} duration={1000} className="hover:text-gray-300 cursor-pointer">Products</Link></li>
+                        <li><Link to="2" smooth={true} duration={1000} className="hover:text-gray-300 cursor-pointer"> About Us</Link></li>
+                        <li><Link to="3" smooth={true} duration={1000} className="hover:text-gray-300 cursor-pointer">Products</Link></li>
                         <li><Link to="4" smooth={true} duration={1000} className="hover:text-gray-300 cursor-pointer">Contact Us</Link></li>
-                        <li><Link to="4" smooth={true} duration={1000} className="hover:text-gray-300 cursor-pointer"> About Us</Link></li>
                     </ul>
                 </div>
             </div>
