@@ -44,7 +44,7 @@ function Home(){
             </section>
             
             <section id='2' className="py-20 h-screen bg-white">
-            <div className="max-w-6xl mx-auto px-4">
+            <div className="max-w-6xl mx-auto px-4" data-aos='fade-up' >
                 <div className="text-center mb-12">
                 <h2 className="text-4xl font-bold text-black mb-4">About Us</h2>
                 <h2 className="mt-4 text-lg text-black">Basta Best Buy at Best Quality JJM nayan!</h2>
@@ -60,7 +60,7 @@ function Home(){
                     <img src="your-image-url-1" alt="Premium CBD Hemp Seeds" className="w-full h-56 object-cover mb-4 rounded-lg" />
                     <h3 className="text-2xl font-semibold mb-2">Premium CBD Hemp Seeds</h3>
                     <p className="text-gray-600">
-                    Blue Forest Farms has the best CBD hemp seed genetics on the market. Buy your hemp seeds now!
+                   
                     </p>
                 </div>
 
@@ -68,7 +68,7 @@ function Home(){
                     <img src="your-image-url-2" alt="High CBD Hemp Flower" className="w-full h-56 object-cover mb-4 rounded-lg" />
                     <h3 className="text-2xl font-semibold mb-2">High CBD Hemp Flower</h3>
                     <p className="text-gray-600">
-                    High CBD, smokable hemp flower is federally legal and provides an enjoyable way to experience the benefits of CBD.
+
                     </p>
                 </div>
 
@@ -76,7 +76,7 @@ function Home(){
                     <img src="your-image-url-3" alt="Partner With Us" className="w-full h-56 object-cover mb-4 rounded-lg" />
                     <h3 className="text-2xl font-semibold mb-2">Partner With Us</h3>
                     <p className="text-gray-600">
-                    Are you looking to carry our CBD line in your store, or do you have an audience you want to sell to?
+                   
                     </p>
                 </div>
 
