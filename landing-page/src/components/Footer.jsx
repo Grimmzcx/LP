@@ -3,7 +3,7 @@ import React from "react";
 function Footer() {
   return (
     <footer className="bg-gray-900 text-white py-10 mt-10">
-      <div className="container mx-auto px-6 grid md:grid-cols-2 gap-8">
+      <div className="container mx-auto px-6 grid md:grid-cols-2   gap-8">
   
         {/* Quick Links */}
           <div data-aos="fade-up" data-aos-delay="200">
